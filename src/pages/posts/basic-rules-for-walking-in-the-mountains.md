@@ -1,15 +1,11 @@
 ---
-title: Basic Rules For Walking In The Mountains
+title: Noakhali
 date: '2019-04-09'
-thumb_img_path: images/1.jpg
-content_img_path: images/1.jpg
-excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+thumb_img_path: /images/noakhali-1946.png
+content_img_path: /images/noakhali-1946.png
+excerpt: The Noakhali Hindu Genocide of 1946
 template: post
 ---
-
 In the United States, Canada, the Republic of Ireland, and United Kingdom, **hiking** refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.
 
 Hiking can sometimes involves bushwhacking and hiking is sometimes referred to as such. This specifically refers to difficult walking through dense forest, undergrowth, or bushes, where forward progress requires pushing vegetation aside. In extreme cases of bushwhacking, where the vegetation is so dense that human passage is impeded, a machete is used to clear a pathway. The Australian term bushwalking refers to both on and off-trail hiking. Common terms for hiking used by [New Zealanders](https://en.wikipedia.org/wiki/New_Zealand) are tramping (particularly for overnight and longer trips), walking or bushwalking. Trekking is the preferred word used to describe multi-day hiking in the mountainous regions of India, Pakistan, Nepal, North America, South America, Iran and in the highlands of East Africa. Hiking a long-distance trail from end-to-end is also referred to as trekking and as thru-hiking in some places. In North America, multi-day hikes, usually with camping, are referred to as [backpacking](https://en.wikipedia.org/wiki/Backpacking_(wilderness)).
@@ -27,6 +23,9 @@ The equipment required for hiking depends on the length of the hike, but day hik
 > Returning home is the most difficult part of long-distance hiking; You have grown outside the puzzle and your piece no longer fits. ― Cindy Ross
 
 Proponents of ultralight backpacking argue that long lists of required items for multi-day hikes increases pack weight, and hence fatigue and the chance of injury. Instead, they recommend reducing pack weight, in order to make hiking long distances easier. Even the use of hiking boots on long-distances hikes is controversial among ultralight hikers, because of their weight.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Among the many success stories related to governance in the last few years, here are two interesting ones... <a href="https://t.co/bhroFF6RL6">pic.twitter.com/bhroFF6RL6</a></p>&mdash; Narendra Modi (@narendramodi) <a href="https://twitter.com/narendramodi/status/1214205348711686152?ref_src=twsrc%5Etfw">January 6, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Environmental Impact
 
